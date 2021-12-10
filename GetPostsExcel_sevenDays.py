@@ -1,4 +1,4 @@
-# To get Last & days posts via Excel file of users.
+# To get Last 7 days posts via Excel file of users.
 import instaloader
 import datetime
 import time
